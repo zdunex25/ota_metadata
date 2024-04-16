@@ -1,0 +1,13 @@
+[  
+    {  
+        "id":"MANET",
+		"version":"OS1.0.12.0.UNMCNXM",
+		"md5":"bb6057411ea5c9650c04d31d326a6b01",
+		"buildtime":"1705683431",
+		"size":"5.4G",
+		"android":"14",
+		"os":"os1",
+		"type":"recovery",
+        "file": "project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/xiaomi.eu_multi_MANET_OS1.0.12.0.UNMCNXM_os1-14.zip"
+    }
+]
