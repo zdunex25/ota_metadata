@@ -1,6 +1,2 @@
 .DS_Store
 updater/release_day.txt
-updater/*.png
-updater/*.css
-updater/fastboot_installation_steps.html
-updater/fastboot_installation_steps_pl.html
