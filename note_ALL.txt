@@ -1,2 +1,2 @@
-New apk for Google Pay fix 2025.07.21 released! <br><br>
-<a href="https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/Xiaomi.eu-app/XiaomiEUModule_2025.07.21.apk/download">Download it from here</a> and install.^checkbox1901780353
+Starting from 23 July 2025, XiaomiEU Module will not be updated and added to our ROMs.<br>
+To learn more, <a href="https://xiaomi.eu/community/threads/xiaomieu-module-app.70890/page-2#post-749643">visit our forum</a>.^checkbox1901780354
